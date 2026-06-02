@@ -1,2 +1,2 @@
 // app.js
-console.log("Welcome to the 360 Attendance App");
+console.log("DEVELOP VERSION - Welcome to the app");
