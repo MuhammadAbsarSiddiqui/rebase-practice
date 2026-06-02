@@ -1,14 +1,2 @@
-// app.js
-
-
-console.log("DEVELOP VERSION - This is from develop branch");
-
-
-
+console.log("DEVELOP VERSION - Hello from develop branch");
 console.log("Welcome to the 360 Attendance App");
-console.log("FEATURE VERSION - This is from feature branch");
-// app.js
-console.log("Welcome to the 360 Attendance App");
-console.log("Loading new login button...");
-
-
